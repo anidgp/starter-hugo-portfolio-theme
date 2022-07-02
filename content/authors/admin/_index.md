@@ -4,7 +4,7 @@ role: ""
 superuser: true
 status:
   icon: ☕️
-avatar_filename: weblogooauth.png
+avatar_filename: avatar.png
 bio: The best Cakery in Durgapur. Where cakes and you come first...
 social:
   - icon: envelope
