@@ -9,4 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](https://bestcakedurgapur.s3.ap-south-1.amazonaws.com/images/13.jpg)
+![](logo.png)
+
+![](redvelvetag.webp)
+
+![](vanillatag.webp)
